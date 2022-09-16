@@ -13,7 +13,6 @@
 
 # misc
 .DS_Store
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -23,4 +22,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # environment variables
-.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
